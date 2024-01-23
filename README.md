@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Brendan Jay
-- 👀 I’m interested in Cycling
-- 🌱 I’m currently learning Web development
-- 💞️ I’m looking to collaborate on any future projects I might do
-- 📫 How to reach me ...
+- 👀 I’m interested in League of Legends
+- 🌱 I’m currently learning Mobile Development
+
 
 <!---
 Brendan-Jay/Brendan-Jay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
