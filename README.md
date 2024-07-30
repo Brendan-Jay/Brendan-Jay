@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Brendan Jay
 - 👀 I’m interested in League of Legends
-- 🌱 I’m currently learning Mobile Development
+- 🌱 I’m currently learning All that I can
 
 
 <!---
